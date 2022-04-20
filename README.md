@@ -5,7 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## TODOS:
 
 * [x] Setup project
-* [] Add project to github
+* [x] Add project to github
+* [x] Clean project
+* [x] Create hello world component
+* [x] Create page: 
+    * [x] login
+    * [x] register 
+    * [x] create todo, 
+    * [x] todos
+* [ ] Setup bootstrap 5
+* [ ] Setup state management
+* [ ] Deploy to vercel 
 
 ## MVP
 
